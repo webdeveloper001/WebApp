@@ -175,7 +175,6 @@ src/javascript/google-analytics-www.js
 web_app/build/*
 *.crt
 *.key
-.vscode
 .gitattributes
 /yarn.lock
 server.csr
@@ -192,3 +191,4 @@ tests/browserstack_automation/config/googleDriveOAuthToken.json
 tests/browserstack_automation/apps/*
 tests/browserstack_automation/*.ipa
 tests/browserstack_automation/*.apk
+config.bat
